@@ -15,3 +15,6 @@ I'm starting this project on 1/20/2020 at 10:25 PM and will update when I comple
 Over all. this was alot of fun making this project. I did do what the instructions said NOT to do and was a bit of a perfectionist on this project but it seems to be the most effective way for me to learn. 
 
 The idea crossed me to customize the page more after it was complete but im eager to get back to the Odin Project and start learning some real coding! 
+
+
+Feel free to take a look at my completed page. https://github.com/zk1glec/google-homepage.git
